@@ -5,3 +5,4 @@
 4. Li, Z., Lai, Y. P., & Diller, E. (2024). 3D printing of multilayer magnetic miniature soft robots with programmable magnetization. Advanced Intelligent Systems, 6(2), 2300052.　https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300052
 5. Han, Y., & Dong, J. (2018). Electrohydrodynamic (EHD) printing of molten metal ink for flexible and stretchable conductor with self‐healing capability. Advanced Materials Technologies, 3(3), 1700268. https://onlinelibrary.wiley.com/doi/10.1002/admt.201700268
 6. Huang, Y., Cao, Y., & Qin, H. (2022). Electric Field Assisted Direct Writing and 3D Printing of Low‐Melting Alloy. Advanced Engineering Materials, 24(9), 2200091. https://onlinelibrary.wiley.com/doi/10.1002/adem.202200091
+7. Zheng, Y., He, Z. Z., Yang, J., & Liu, J. (2014). Personal electronics printing via tapping mode composite liquid metal ink delivery and adhesion mechanism. Scientific reports, 4(1), 4588. https://www.nature.com/articles/srep04588#MOESM1
