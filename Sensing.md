@@ -1,0 +1,1 @@
+1. Zhu, Z., Dai, K., Wang, M., Jiang, L., Bian, L., Zhang, W., & Tian, Y. (2023). “Bobbit Worm”‐Inspired Soft Adaptive Grasper with Self‐Generated Triboelectric Force Sensor. Advanced Sensor Research, 2300154. https://onlinelibrary.wiley.com/doi/full/10.1002/adsr.202300154
