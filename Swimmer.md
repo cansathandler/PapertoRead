@@ -1,6 +1,6 @@
 **Review Paper**<br>
 Surface tension based electrically driven robot<br> 
-Kim, D., Park, C. J., Koh, J. S., & Ha, J. (2024). Small-scale robots inspired by aquatic interfacial biolocomotion. MRS Bulletin, 1-11.
+1. Kim, D., Park, C. J., Koh, J. S., & Ha, J. (2024). Small-scale robots inspired by aquatic interfacial biolocomotion. MRS Bulletin, 1-11.
 https://link.springer.com/article/10.1557/s43577-023-00646-w
 
 **Research Article**<br>
