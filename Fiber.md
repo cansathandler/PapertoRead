@@ -1,0 +1,1 @@
+1. Liu, S., Chen, Y., Zhu, Z., Ren, E., Wang, J., Wang, Y., ... & Cheng, P. (2024). Bioinspired helical fiber/elastomer composites with high strength. Polymer, 127072. https://www.sciencedirect.com/science/article/pii/S0032386124004075
