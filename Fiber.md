@@ -1,1 +1,2 @@
 1. Liu, S., Chen, Y., Zhu, Z., Ren, E., Wang, J., Wang, Y., ... & Cheng, P. (2024). Bioinspired helical fiber/elastomer composites with high strength. Polymer, 127072. https://www.sciencedirect.com/science/article/pii/S0032386124004075
+2. Chambers, R. G. (1950). The conductivity of thin wires in a magnetic field. Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences, 202(1070), 378-394. https://royalsocietypublishing.org/doi/10.1098/rspa.1950.0107
