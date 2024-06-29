@@ -1,2 +1,3 @@
 1. Hayashi, M., Bakkali, M., Hyde, A., & Goodacre, S. L. (2015). Sail or sink: novel behavioural adaptations on water in aerially dispersing species. BMC evolutionary biology, 15, 1-8. https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-015-0402-5
 2. Kevin Chen: Nanogenerator to actuation. Lee, Y., Ren, Z., Hsiao, Y. H., Kim, S., Song, W. J., Lee, C., & Chen, Y. (2024). Liftoff of a soft-actuated micro-aerial-robot powered by triboelectric nanogenerators. Nano Energy, 126, 109602. https://www.sciencedirect.com/science/article/pii/S2211285524003501
+Jones, A. C. (2024). Jet" Salps": The Creation and Characterization of Bioinspired, Soft-Robotic Jet Propulsors. https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/h989rb94b
