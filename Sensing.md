@@ -2,3 +2,5 @@
 **Capacitance Sensor**
 1. Su, M., Li, P., Liu, X., Wei, D., & Yang, J. (2022). Textile-based flexible capacitive pressure sensors: A review. Nanomaterials, 12(9), 1495.
 2. Zhang, Q., Wang, Y. L., Xia, Y., Zhang, P. F., Kirk, T. V., & Chen, X. D. (2019). Textile‐only capacitive sensors for facile fabric integration without compromise of wearability. Advanced Materials Technologies, 4(10), 1900485.
+**IPMC Sensing**
+MohdIsa, W., Hunt, A., & HosseinNia, S. H. (2019). Sensing and self-sensing actuation methods for ionic polymer–metal composite (ipmc): A review. Sensors, 19(18), 3967. https://www.mdpi.com/1424-8220/19/18/3967
